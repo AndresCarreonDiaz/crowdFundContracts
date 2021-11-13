@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 .artifacts
+=======
+>>>>>>> a26d1633136f97c50acc0e44a76d27a4ab6d16e7
 # Logs
 logs
 *.log
@@ -6,7 +9,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+<<<<<<< HEAD
 .pnpm-debug.log*
+=======
+>>>>>>> a26d1633136f97c50acc0e44a76d27a4ab6d16e7
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
@@ -43,8 +49,13 @@ build/Release
 node_modules/
 jspm_packages/
 
+<<<<<<< HEAD
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
+=======
+# TypeScript v1 declaration files
+typings/
+>>>>>>> a26d1633136f97c50acc0e44a76d27a4ab6d16e7
 
 # TypeScript cache
 *.tsbuildinfo
@@ -73,6 +84,7 @@ web_modules/
 # dotenv environment variables file
 .env
 .env.test
+<<<<<<< HEAD
 .env.production
 
 # parcel-bundler cache (https://parceljs.org/)
@@ -82,6 +94,14 @@ web_modules/
 # Next.js build output
 .next
 out
+=======
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+
+# Next.js build output
+.next
+>>>>>>> a26d1633136f97c50acc0e44a76d27a4ab6d16e7
 
 # Nuxt.js build / generate output
 .nuxt
@@ -89,7 +109,11 @@ dist
 
 # Gatsby files
 .cache/
+<<<<<<< HEAD
 # Comment in the public line in if your project uses Gatsby and not Next.js
+=======
+# Comment in the public line in if your project uses Gatsby and *not* Next.js
+>>>>>>> a26d1633136f97c50acc0e44a76d27a4ab6d16e7
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
@@ -107,6 +131,7 @@ dist
 
 # TernJS port file
 .tern-port
+<<<<<<< HEAD
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
@@ -117,3 +142,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+=======
+>>>>>>> a26d1633136f97c50acc0e44a76d27a4ab6d16e7
