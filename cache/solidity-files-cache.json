@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/andrescarreon/Documents/dev/crowdfundPlatzi/contracts/CrowdFund.sol": {
+      "lastModificationDate": 1636608989742,
+      "contentHash": "c7b775b0796a766ad57331adfe5a7176",
+      "sourceName": "contracts/CrowdFund.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "CrowdFund"
+      ]
+    }
+  }
+}
