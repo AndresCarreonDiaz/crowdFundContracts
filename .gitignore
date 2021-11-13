@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 .artifacts
-=======
->>>>>>> a26d1633136f97c50acc0e44a76d27a4ab6d16e7
 # Logs
 logs
 *.log
@@ -9,10 +6,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
-<<<<<<< HEAD
 .pnpm-debug.log*
-=======
->>>>>>> a26d1633136f97c50acc0e44a76d27a4ab6d16e7
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
